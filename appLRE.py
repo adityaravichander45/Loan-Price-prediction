@@ -18,9 +18,7 @@
    "cell_type": "code",
    "execution_count": 2,
    "id": "f98579c2",
-   "metadata": {
-    "scrolled": true
-   },
+   "metadata": {},
    "outputs": [
     {
      "name": "stderr",
@@ -266,7 +264,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 11,
    "id": "10a0faa4",
    "metadata": {},
    "outputs": [],
@@ -274,7 +272,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 12,
    "id": "0e26f82b",
    "metadata": {},
    "outputs": [],
